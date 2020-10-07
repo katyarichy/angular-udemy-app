@@ -1,4 +1,8 @@
-# MyFirstApp
+Udemy course https://www.udemy.com/course/the-complete-guide-to-angular-2/
+
+
+
+# Angular app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
